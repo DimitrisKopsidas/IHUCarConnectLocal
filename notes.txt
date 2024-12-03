@@ -1,0 +1,3 @@
+- Ενεργοποιηση καθε φορα του venv με ". venv/Scripts/activate" και "pip list" για ελεγχο
+- "pipreqs . --force" οταν βαζω νεο library για να το ενσωματωσει στο requirements.txt
+- Ενεργοποιηση σερβερ "python manage.py runserver"
